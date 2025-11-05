@@ -1,23 +1,23 @@
 # DataScience_DSH
-# Titanic - Análisis de Supervivencia
+# Titanic - Survival Analysis
 
-Este proyecto analiza el famoso dataset del Titanic para predecir la supervivencia de los pasajeros usando técnicas de ciencia de datos y aprendizaje automático.
+This project analyzes the famous Titanic dataset to predict passenger survival using data science and machine learning techniques.
 
-## Tabla de Contenidos
+## Table of Contents
 
-- [Descripción](#descripción)
-- [Estructura del repositorio](#estructura-del-repositorio)
-- [Requisitos](#requisitos)
-- [Uso](#uso)
-- [Resultados](#resultados)
-- [Créditos](#créditos)
-- [Licencia](#licencia)
+- [Description](#description)
+- [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Results](#results)
+- [Credits](#credits)
+- [License](#license)
 
-## Descripción
+## Description
 
-El objetivo de este proyecto es aplicar técnicas de análisis de datos y modelos de Machine Learning para predecir quién sobrevivió al hundimiento del Titanic, a partir de variables como edad, sexo, clase, etc.
+The objective of this project is to apply data analysis techniques and Machine Learning models to predict who survived the sinking of the Titanic, using features such as age, gender, class, and more.
 
-## Estructura del repositorio
+## Repository Structure
 
 ```
 DataScience_DSH/
@@ -28,52 +28,52 @@ DataScience_DSH/
 └── README.md
 ```
 
-- `titanic_notebook.ipynb`: Análisis exploratorio y modelado.
-- `data/`: Carpeta donde se encuentra el dataset.
-- `requirements.txt`: Dependencias del proyecto.
-- `README.md`: Este archivo.
+- `titanic_notebook.ipynb`: Exploratory analysis and modeling.
+- `data/`: Folder containing the dataset.
+- `requirements.txt`: Project dependencies.
+- `README.md`: This file.
 
-## Requisitos
+## Requirements
 
 - Python 3.8+
 - Jupyter Notebook
-- Las dependencias se instalan con:
+- Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Uso
+## Usage
 
-1. Clona este repositorio:
+1. Clone this repository:
     ```bash
     git clone https://github.com/stevenhenao018/DataScience_DSH.git
     cd DataScience_DSH
     ```
-2. Instala las dependencias:
+2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Abre el Jupyter Notebook:
+3. Open the Jupyter Notebook:
     ```bash
     jupyter notebook titanic_notebook.ipynb
     ```
-4. Sigue las instrucciones y explora el análisis.
+4. Follow the notebook instructions and explore the analysis.
 
-## Resultados
+## Results
 
-- Precisión del modelo: **(Agrega aquí la métrica obtenida)**
-- Principales conclusiones:  
-    - (Agrega aquí tus hallazgos principales)
-- Ejemplo de gráfico:
+- Model accuracy: **(Add your obtained metric here)**
+- Main findings:
+    - (Add your main findings here)
+- Example plot:
 
-![Ejemplo Gráfico de Supervivientes](ruta/a/tu/imagen.png)
+![Example Survivors Plot](path/to/your/image.png)
 
-## Créditos
+## Credits
 
 - [Steven Henao](https://github.com/stevenhenao018)
 - Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
 
-## Licencia
+## License
 
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
